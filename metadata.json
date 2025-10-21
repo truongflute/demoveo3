@@ -1,0 +1,5 @@
+{
+  "name": "Veo Script & Video Generator",
+  "description": "An AI-powered application to generate detailed video scripts and then create video clips for each scene using Google's Veo model.",
+  "requestFramePermissions": []
+}
